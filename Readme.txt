@@ -28,7 +28,7 @@ to the resource page where users can find the download and not directly to the d
 
 
 
-If you would like to share one of my resources, you can do so by making a link to the specific 
+Iff you would like to share one of my resources, you can do so by making a link to the specific 
 resource on http://bootstrapthemes.co , you can if you wish insert the embed code for the product previews images to illustrate your link. 
 No HOTLINKING is allowed i.e. you cannot make a direct link to the download or/and the images hosted on http://bootstrapthemes.co
 
